@@ -335,7 +335,7 @@ glutInit(&argc, argv);
 glutInitDisplayMode (GLUT_RGB);
 glutInitWindowSize (1900, 950);
 glutInitWindowPosition (0, 0);
-glutCreateWindow ("RAIHAN");
+glutCreateWindow ("Shaheed Minar");
 init ();
 glutDisplayFunc(display);
 glutMainLoop();
