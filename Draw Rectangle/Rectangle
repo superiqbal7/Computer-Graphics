@@ -14,12 +14,6 @@ void draw_arrow(void)
     glVertex2d(400, 400);
     glVertex2d(100, 400);
     glEnd();
-
-    glBegin(GL_POLYGON);
-    glVertex2d(400, 175);
-    glVertex2d(400, 425);
-    glVertex2d(500, 300);
-    glEnd();
 }
 void myDisplay()
 {
